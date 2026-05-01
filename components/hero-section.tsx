@@ -95,13 +95,15 @@ const HeroSection = () => {
         <div className="hero-content flex flex-col items-start text-left gap-8">
           <div className="space-y-4">
             <h1 className="hero-title text-6xl md:text-8xl font-bold tracking-tighter leading-[0.9] text-zinc-900">
-              <span className="inline-block" style={{ color: "rgb(255,182,193)" }}>Shop happy</span><br />
-              <span className="inline-block">Shop</span> <br />
-              <span className="inline-block" style={{ color: "rgb(255,182,193)" }}>NardiShop</span>
+              <span className="inline-block" style={{ color: "rgb(255,182,193)" }}>አቡቀለምሲስ|Abukelemsis|</span><br />
+              <span className="inline-block">መንፈሳዊ መጽሐፍት</span> <br />
+              <span className="inline-block" style={{ color: "rgba(110, 15, 45)" }}>ስጦታዎች</span>
             </h1>
             
             <p className="hero-description max-w-[450px] text-zinc-600 text-lg md:text-xl leading-relaxed">
-             Discover stylish products powered by quality and performance.
+             ጥራት መለያችን✨
+ፍጥነት እና ታማኝነት ዘውትር የምንመሰገንበት ነው 🎁
+ይመርጡናል እንጂ አያወዳድሩንም✨
             </p>
           </div>
 

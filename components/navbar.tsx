@@ -74,7 +74,7 @@ export default function Navbar() {
         >
           <ShoppingBag className="h-6 w-6 transition-colors group-hover:text-[rgb(255,182,193)]" />
           <span className="font-bold text-xl transition-colors" style={{ color: pinkColor }}>
-            NardiShop
+            Abukelemsis|Shop
           </span>
         </Link>
 
